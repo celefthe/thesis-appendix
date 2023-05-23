@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.chapters.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Digital Appendix" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Contents" }}</h2>
     <ul class="post-list">
       {%- for chapter in site.chapters -%}
       <li>

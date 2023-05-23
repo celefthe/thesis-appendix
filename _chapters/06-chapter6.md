@@ -1,7 +1,7 @@
 ---
 title: Chapter 6 - Macroscale cortical dynamics across learning & their disruption in a mouse model of Rett syndrome
 description: >-
-    Supplementary videos
+    In chapter 6, I explore the evolution of cortical dynamics across visuomotor learning in Wt and Mecp2+/- mice. Supplementary material include interactive heatmap and graph models of functional connectivity during learning, as well as videos of the lever-push apparatus and example ∆F/F0 traces during visuomotor behaviour. 
 layout: chapter
 ---
 

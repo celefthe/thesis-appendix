@@ -1,7 +1,7 @@
 ---
 title: Chapter 5 - Visually evoked responses in dorsal cortex
 description: >-
-    Supplementary videos
+    To determine whether a reduction in MeCP2 expression affects the perception of visual stimuli, chapter 5 uses mesoscale calcium imaging to compare visually evoked responses across the dorsal cortices of Wt and Mecp2+/- female mice. Supplementary material comprises of example videos of calcium responses to visual stimulation.
 layout: chapter
 ---
 

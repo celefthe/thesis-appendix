@@ -1,13 +1,17 @@
 ---
 title: Chapter 4 - Functional connectivity of the dorsal cortex at rest
 description: >-
-    Supplementary videos
+    This chapter examines whether the reduction in MeCP2 expression affects the flow of information across the dorsal cortex at rest. Supplementary material comprises of interactive heatmaps and graph models of functional connectivity at rest, as well as videos of grooming and quiescent behaviour.
 layout: chapter
 ---
 
 ### Supplementary Figure 4.1.: Example of behavioural quiescence in a Wt mouse
 
+Example video of "typical" quiescent behaviour in a Wt mouse. The mouse is sat fairly still in the head-restrain apparatus, not really doing a whole lot.
+
 ### Supplementary Figure 4.2.: Example of a grooming bout in a Wt mouse
+
+Example video of "typical" grooming in a Wt mouse. The video shows a mouse grooming its face and head while head-restrained.
 
 ### Supplementary Figure 4.3.: Map of interareal functional connectivity in Wt mice at 16 weeks
 

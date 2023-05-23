@@ -1,7 +1,7 @@
 ---
 title: Chapter 3 - Visuomotor learning deficits in a female mouse model of Rett syndrome
 description: >-
-    Supplementary videos
+    In this chapter, I leverage the <a href="https://www.visiomode.org"> Visiomode platform</a> to explore whether female Mecp2+/- mice display visuomotor learning deficits prior to the onset of gross motor symptoms in a freely moving visual discrimination touchscreen task. Supplementary material include videos of nose-poke and forelimb reaching interactions with the touchscreen, as well as examples of the openfield and gridwalk tasks used as control measures of gross motor function.
 layout: chapter
 ---
 
